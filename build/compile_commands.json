@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/User/project/buildserver/build",
+  "command": "C:/gcc/bin/c++.exe   -g -o CMakeFiles/project.dir/main.obj -c C:/Users/User/project/buildserver/main.cpp",
+  "file": "C:/Users/User/project/buildserver/main.cpp",
+  "output": "CMakeFiles/project.dir/main.obj"
+}
+]
