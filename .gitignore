@@ -1,2 +1,6 @@
 .vs
 build/
+_bin/
+_build/
+build.txt
+errors.txt
