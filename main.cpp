@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main() {
-    std::cout << "HELLO NEW SERVER!";
+    std::cout << "HELLO Old SERVER!";
     
     return 0;
 }
